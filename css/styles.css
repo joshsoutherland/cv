@@ -1,0 +1,24 @@
+body {
+  background-color: #f6f6f6;
+}
+
+hr {
+  border-style: dotted none none;
+  border-color: #ffbb91;
+  border-width: 7px;
+  width: 5%;
+}
+h1 {
+  font: bold 2.2em "Fira Sans", serif;
+  color: #515070;
+}
+
+h2 {
+  font: bold 1.7em "Fira Sans", serif;
+  color: #515070;
+}
+
+h3 {
+  font: bold 1.2em "Fira Sans", serif;
+  color: #515070;
+}
